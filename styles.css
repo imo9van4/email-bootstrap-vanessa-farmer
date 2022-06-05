@@ -1,0 +1,54 @@
+.btn-group{
+    padding-bottom: 10px;
+    padding-top: 20px;
+  }
+  #dropdownMenuButton2{
+    margin-top: 20px;
+  }
+  #first-col{
+    background-color: #D3D3D3;
+    height: 100vh;
+  }
+  .d-flex{
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  .btn-group, .dropdown, p, .list-group-item, .d-flex, h3, h4{
+    font-family: "Prompt";
+  }
+  h1{
+    font-family: "Lobster";
+    color: purple;
+    text-align: center;
+  }
+  h1, h3{
+    padding-top: 20px;
+  }
+  #second-col{
+    height: 100vh;
+  }
+  #floatingTextarea{
+    height:150px;
+  }
+  #third-col{
+    background-color: #E6E6FA;
+  }
+  #inbox, #bold-email{
+    background-color: #C5CBE1;
+    color: black;
+    border: #E6E6FA;
+    -webkit-box-shadow: inset -1px -2px 5px 14px rgba(166,72,166,0.18);
+    -moz-box-shadow: inset -1px -2px 5px 14px rgba(166,72,166,0.18);
+    box-shadow: inset -1px -2px 5px 14px rgba(166,72,166,0.18);
+  }
+  #folders{
+    display: flex;
+    text-align: center;
+  }
+  .list-size{
+    font-size: 12px;
+  }
+  h4{
+      text-align: center;
+      padding-top: 10px;
+  }
